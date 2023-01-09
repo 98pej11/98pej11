@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#CDE6F2&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#87CEFA&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <!--
 **98pej11/98pej11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
