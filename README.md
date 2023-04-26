@@ -1,2 +1,2 @@
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
