@@ -1,7 +1,7 @@
 <div align="center">
 
 ### ✨ About Me ✨
-<img width="30%" src="https://github.com/98pej11/98pej11/assets/68580956/000071d2-7f32-4fd3-8c56-e31a4fb33dec"/>
+<img width="80%" src="https://github.com/98pej11/98pej11/assets/68580956/93a31d4c-91c9-4047-8955-c599d4741c3c"/>
 <h5>" 계속해서 성장하는 프론트엔드 개발자를 꿈꾸는 박은정입니다🙋🏻‍♀️ ” </h5>
 
 <h6>1️⃣ 사용자의 피드백과 데이터를 기반으로 서비스의 방향과 우선순위를 항상 고려합니다.</h6>
