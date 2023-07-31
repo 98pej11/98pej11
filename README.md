@@ -1,7 +1,18 @@
 <div align="center">
-  
-## ✨ Tech Stack ✨
+
+### ✨ About Me ✨
+
+" 계속해서 성장하는 프론트엔드 개발자를 꿈꾸는 박은정입니다. ” <br />
+
+<h6>1️⃣ 사용자의 피드백과 데이터를 기반으로 서비스의 방향과 우선순위를 항상 고려합니다.</h6>
+<h6>2️⃣ 개발은 혼자서는 할 수 없기에, 동료와의 협업과 함께 성장하는 것을 중요하게 생각합니다.</h6>
+<h6>3️⃣ 명시적인 코드 작성 및 안정성을 높이려 노력하며, 팀원들과의 많은 소통을 지향합니다.</h6>
 <br />
+<hr />
+<br />
+
+### ✨ Tech Stack ✨
+
 <h6>👩🏻‍💻 Languages & Platforms 👩🏻‍💻</h6>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
@@ -26,7 +37,6 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 
-<br />
 <br />
 <br />
 <br />
